@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">order-activity</string>
+
+    <string name="go_back"><u>Go Back</u></string>
+    <string name="total"><i>Total: </i></string>
+    <string name="quantity"><i>Quantity: </i></string>
+    <string name="again"><u>Start Again.</u></string>
+</resources>
